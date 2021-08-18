@@ -188,7 +188,14 @@ Year: 2001<br>
 
 ---
 
-# Pikachu the Movie 5th - Shiny Raw Sky???<br>
+# Pokemon Heroes: Latios and Latias<br>
+Year: 2002<br>
+<br>
+<img src="https://i.imgur.com/BFjwlue.jpg">
+
+---
+
+# Pokemon Heroes: Latios and Latias - Shiny Raw Sky???<br>
 Year: 2002<br>
 Japanese text:<br>
 ピカピカ (Shiny)<br>
@@ -198,14 +205,7 @@ Japanese text:<br>
 
 ---
 
-# Pikachu the Movie 5th - Latios and Latias<br>
-Year: 2002<br>
-<br>
-<img src="https://i.imgur.com/BFjwlue.jpg">
-
----
-
-# Pikachu the Movie 5th - Goddess of the City of Water<br>
+# Pokemon Heroes: Latios and Latias - Goddess of the City of Water<br>
 Year: 2002<br>
 Japanese text:<br>
 水の都の護神 (Goddess of the city of water)<br>
