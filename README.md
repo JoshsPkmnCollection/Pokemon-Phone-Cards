@@ -13,6 +13,27 @@ Japanese text:<br>
 
 ---
 
+# Articuno<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/Q9A5CfB.png">
+
+---
+
+# Zapdos<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/45jup2D.png">
+
+---
+
+# Moltres<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/a68EzTo.png">
+
+---
+
 # Pikachu the Movie - Mewtwo Strikes Back<br>
 Year: 1998<br>
 <br>
