@@ -13,6 +13,20 @@ Japanese text:<br>
 
 ---
 
+# CORO CORO COMICS - Red<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/3raqUDz.png">
+
+---
+
+# CORO CORO COMICS - Green<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/wliGwQb.png">
+
+---
+
 # Articuno<br>
 Year: 1996<br>
 <br>
