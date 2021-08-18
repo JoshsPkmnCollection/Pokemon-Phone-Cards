@@ -83,6 +83,48 @@ Year: 1998<br>
 
 ---
 
+# Mirage Pokemon: Lugia's Explosive Birth 1<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/JyIMBgF.png">
+
+---
+
+# Mirage Pokemon: Lugia's Explosive Birth 1 - Holo<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/kt5G8xo.png">
+
+---
+
+# Mirage Pokemon: Lugia's Explosive Birth 2<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/RoaAr27.jpg">
+
+---
+
+# Mirage Pokemon: Lugia's Explosive Birth 3<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/C6YFLMm.jpg">
+
+---
+
+# Mirage Pokemon: Lugia's Explosive Birth 4<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/ri8N8W7.jpg">
+
+---
+
+# Mirage Pokemon: Lugia's Explosive Birth 5<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/d6QWgjk.png">
+
+---
+
 # 1999 ANA Airlines<br>
 Year: 1999<br>
 <br>
