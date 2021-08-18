@@ -48,6 +48,27 @@ Year: 1996<br>
 
 ---
 
+# Pokemon Center Tokyo Grand Opening Telephone Card Set<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/nEq2NGP.jpg">
+
+---
+
+# Pokemon Center Osaka Telephone Card Set<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/BFLl7Yw.jpg">
+
+---
+
+# Pokemon Center Osaka Telephone<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/IH452rX.jpg">
+
+---
+
 # Mewtwo Strikes Back 1<br>
 Year: 1998<br>
 <br>
@@ -80,6 +101,13 @@ Year: 1998<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/uXdIhpk.png">
+
+---
+
+# 3rd Anniversary Pocket Monsters Telephone Card Set<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/0iZW6zt.jpg">
 
 ---
 
