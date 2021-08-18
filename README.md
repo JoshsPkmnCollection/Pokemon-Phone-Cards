@@ -177,3 +177,80 @@ Year: 2003<br>
 Japanese text:<br>
 <br>
 <img src="https://i.imgur.com/eQISGAX.png">
+
+---
+
+# BANPRESTO Pikachu<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/WvowWj6.jpg">
+
+---
+
+# TOMY Lugia<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/hek8HYA.jpg">
+
+---
+
+# TOMY Ash<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/aTAywTu.png">
+
+---
+
+# TOMY 1999-2000<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/daMaXVV.jpg">
+
+---
+
+# SHOWA NOTE Pikachu and Togepi<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/ZBng9wP.png">
+
+---
+
+# Dragonite and Pikachu<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/uIO45iU.jpg">
+
+---
+
+# 7:00 Pikachu<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/f3Ug3hC.png">
+
+---
+
+# Pocket Monster Pikachu<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/12F2ISM.jpg">
+
+---
+
+# Pocket Monster Shogakukan<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/IfQctka.jpg">
+
+---
+
+# Pocket Monster Mato<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/XPd9paY.png">
+
+---
+
+# Pokemon Center<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/yc53MvB.jpg">
