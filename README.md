@@ -48,14 +48,35 @@ Year: 1996<br>
 
 ---
 
-# Pikachu the Movie - Mewtwo Strikes Back 1<br>
+# Pikachu the First Movie 1<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/JLbGGSe.jpg">
+
+---
+
+# Pikachu the First Movie 2<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/zOuStmA.jpg">
+
+---
+
+# Pikachu the First Movie 3<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/GwJRyUb.png">
+
+---
+
+# Pikachu the First Movie - Mewtwo Strikes Back 1<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/WMWj3Wk.jpg">
 
 ---
 
-# Pikachu the Movie - Mewtwo Strikes Back 2<br>
+# Pikachu the First Movie - Mewtwo Strikes Back 2<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/uXdIhpk.png">
