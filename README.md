@@ -48,35 +48,35 @@ Year: 1996<br>
 
 ---
 
-# Pikachu the First Movie 1<br>
+# Mewtwo Strikes Back 1<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/JLbGGSe.jpg">
 
 ---
 
-# Pikachu the First Movie 2<br>
+# Mewtwo Strikes Back 2<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/zOuStmA.jpg">
 
 ---
 
-# Pikachu the First Movie 3<br>
+# Mewtwo Strikes Back 3<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/GwJRyUb.png">
 
 ---
 
-# Pikachu the First Movie - Mewtwo Strikes Back 1<br>
+# Mewtwo Strikes Back 4<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/WMWj3Wk.jpg">
 
 ---
 
-# Pikachu the First Movie - Mewtwo Strikes Back 2<br>
+# Mewtwo Strikes Back 5<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/uXdIhpk.png">
@@ -141,7 +141,7 @@ Year: 2000<br>
 
 ---
 
-# Pikachu the Movie 2000 - Pichu and Pikachu<br>
+# Pikachu the Movie 2000 - Pichu and Pikachu 1<br>
 Year: 2000<br>
 Japanese text:<br>
 ピチューと (Pichu and)<br>
@@ -188,29 +188,29 @@ Year: 2001<br>
 
 ---
 
-# Pokemon Heroes: Latios and Latias<br>
+# Guardian Gods of the Capital of Water: Latias and Latios - 1<br>
 Year: 2002<br>
 <br>
 <img src="https://i.imgur.com/BFjwlue.jpg">
 
 ---
 
-# Pokemon Heroes: Latios and Latias - Shiny Raw Sky???<br>
+# Guardian Gods of the Capital of Water: Latias and Latios - 2<br>
+Year: 2002<br>
+Japanese text:<br>
+水の都の護神 (Goddess of the city of water)<br>
+<br>
+<img src="https://i.imgur.com/kXyFdZy.jpg">
+
+---
+
+# Guardian Gods of the Capital of Water: Latias and Latios - Shiny Raw Sky???<br>
 Year: 2002<br>
 Japanese text:<br>
 ピカピカ (Shiny)<br>
 生空キャンろ (Raw sky)<br>
 <br>
 <img src="https://i.imgur.com/RLyksax.png">
-
----
-
-# Pokemon Heroes: Latios and Latias - Goddess of the City of Water<br>
-Year: 2002<br>
-Japanese text:<br>
-水の都の護神 (Goddess of the city of water)<br>
-<br>
-<img src="https://i.imgur.com/kXyFdZy.jpg">
 
 ---
 
@@ -221,7 +221,7 @@ Year: 2002<br>
 
 ---
 
-# Jirachi Wish Maker<br>
+# Wishing Star of the Seven Nights: Jirachi<br>
 Year: 2003<br>
 Japanese text:<br>
 <br>
