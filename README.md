@@ -104,3 +104,11 @@ Japanese text:<br>
 Year: 2002<br>
 <br>
 <img src="https://i.imgur.com/VNcaF4N.jpg">
+
+---
+
+# Jirachi Wish Maker<br>
+Year: 2003<br>
+Japanese text:<br>
+<br>
+<img src="https://i.imgur.com/eQISGAX.png">
