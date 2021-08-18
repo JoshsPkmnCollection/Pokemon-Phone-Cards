@@ -169,6 +169,13 @@ Year: ?<br>
 
 ---
 
+# Famitsu Magazine<br>
+Year: 2000<br>
+<br>
+<img src="https://i.imgur.com/WqlP9NX.jpg">
+
+---
+
 # Pikachu the Movie 2000 - Lord of the Unknown Tower 1<br>
 Year: 2000<br>
 <br>
@@ -260,6 +267,13 @@ Japanese text:<br>
 Year: 2002<br>
 <br>
 <img src="https://i.imgur.com/VNcaF4N.jpg">
+
+---
+
+# Shining Charizard<br>
+Year: 2002<br>
+<br>
+<img src="https://i.imgur.com/HTyTIne.jpg">
 
 ---
 
