@@ -139,6 +139,13 @@ Japanese text:<br>
 
 ---
 
+# Celebi Timeless Encounter<br>
+Year: 2001<br>
+<br>
+<img src="https://i.imgur.com/DkaCMHE.png">
+
+---
+
 # Pikachu the Movie 5th - Shiny Raw Sky???<br>
 Year: 2002<br>
 Japanese text:<br>
