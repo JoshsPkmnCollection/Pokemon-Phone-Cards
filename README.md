@@ -71,3 +71,36 @@ Japanese text:<br>
 セレビィ (Celebi)<br>
 <br>
 <img src="https://i.imgur.com/JsT01gp.jpg">
+
+---
+
+# Pikachu the Movie 5th - Shiny Raw Sky???<br>
+Year: 2002<br>
+Japanese text:<br>
+ピカピカ (Shiny)<br>
+生空キャンろ (Raw sky)<br>
+<br>
+<img src="https://i.imgur.com/RLyksax.png">
+
+---
+
+# Pikachu the Movie 5th - Latios and Latias<br>
+Year: 2002<br>
+<br>
+<img src="https://i.imgur.com/BFjwlue.jpg">
+
+---
+
+# Pikachu the Movie 5th - Goddess of the City of Water<br>
+Year: 2002<br>
+Japanese text:<br>
+水の都の護神 (Goddess of the city of water)<br>
+<br>
+<img src="https://i.imgur.com/kXyFdZy.jpg">
+
+---
+
+# Latios and Latias<br>
+Year: 2002<br>
+<br>
+<img src="https://i.imgur.com/VNcaF4N.jpg">
