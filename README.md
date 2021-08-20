@@ -173,32 +173,25 @@ Year: 1999<br>
 # Mirage Pokemon: Lugia's Explosive Birth 2<br>
 Year: 1999<br>
 <br>
-<img src="https://i.imgur.com/RoaAr27.jpg">
+<img src="https://i.imgur.com/C6YFLMm.jpg">
 
 ---
 
 # Mirage Pokemon: Lugia's Explosive Birth 3<br>
 Year: 1999<br>
 <br>
-<img src="https://i.imgur.com/C6YFLMm.jpg">
-
----
-
-# Mirage Pokemon: Lugia's Explosive Birth 4<br>
-Year: 1999<br>
-<br>
 <img src="https://i.imgur.com/ri8N8W7.jpg">
 
 ---
 
-# Mirage Pokemon: Lugia's Explosive Birth 4 - Holo<br>
+# Mirage Pokemon: Lugia's Explosive Birth 3 - Holo<br>
 Year: 1999<br>
 <br>
 <img src="https://i.imgur.com/d8oHCGW.jpg">
 
 ---
 
-# Mirage Pokemon: Lugia's Explosive Birth 5<br>
+# Mirage Pokemon: Lugia's Explosive Birth 4<br>
 Year: 1999<br>
 <br>
 <img src="https://i.imgur.com/d6QWgjk.png">
