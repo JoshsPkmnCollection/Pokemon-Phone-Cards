@@ -335,6 +335,16 @@ Japanese text:<br>
 
 ---
 
+# Pokemon Stadium - Nintendo 64<br>
+Year: ?<br>
+Japanese text:<br>
+スタジアム (Stadium)<br>
+マリオ (Mario)<br>
+<br>
+<img src="https://i.imgur.com/Wptg8mY.jpg">
+
+---
+
 # BANPRESTO Pikachu<br>
 Year: ?<br>
 <br>
