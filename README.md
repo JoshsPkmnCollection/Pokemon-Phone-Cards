@@ -1,6 +1,8 @@
 # Pokemon-Phone-Cards
 A list of all Pokemon phone cards
 
+How to convert Japanese characters to English: Go to [Google Translate](https://translate.google.com/?sl=ja&tl=en&op=translate), click the pen icon, and draw each individual character.
+
 ---
 
 # PiPiPi Adventurer<br>
@@ -45,6 +47,17 @@ Year: 1996<br>
 Year: 1996<br>
 <br>
 <img src="https://i.imgur.com/a68EzTo.png">
+
+---
+
+# Televi-Kun and Kusei<br>
+Year: 1998<br>
+Background: Televi-Kun is a Japanese monthly manga magazine published by Shogakukan<br>
+Japanese text:<br>
+てれびくんとくせい (Televi-kun and Kusei)<br>
+ポケットモンスターテレカ (Pokemon telephone card)<br>
+<br>
+<img src="https://i.imgur.com/IZmvqq2.jpg">
 
 ---
 
