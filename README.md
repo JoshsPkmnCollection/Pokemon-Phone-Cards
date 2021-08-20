@@ -24,6 +24,20 @@ Japanese text:<br>
 
 ---
 
+# PiPiPi Adventurer 2<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/x5jcqNS.jpg">
+
+---
+
+# PiPiPi Adventurer 3<br>
+Year: 1996<br>
+<br>
+<img src="https://i.imgur.com/uDqoEcU.png">
+
+---
+
 # CORO CORO COMICS - Red<br>
 Year: 1996<br>
 <br>
@@ -177,6 +191,13 @@ Year: 1999<br>
 
 ---
 
+# Mirage Pokemon: Lugia's Explosive Birth 4 - Holo<br>
+Year: 1999<br>
+<br>
+<img src="https://i.imgur.com/d8oHCGW.jpg">
+
+---
+
 # Mirage Pokemon: Lugia's Explosive Birth 5<br>
 Year: 1999<br>
 <br>
@@ -289,6 +310,13 @@ Japanese text:<br>
 
 ---
 
+# Shiny Concert 2001<br>
+Year: 2001<br>
+<br>
+<img src="https://i.imgur.com/KSdj4tH.jpg">
+
+---
+
 # Celebi Timeless Encounter<br>
 Year: 2001<br>
 <br>
@@ -338,7 +366,6 @@ Year: 2002<br>
 
 # Wishing Star of the Seven Nights: Jirachi<br>
 Year: 2003<br>
-Japanese text:<br>
 <br>
 <img src="https://i.imgur.com/eQISGAX.png">
 
@@ -414,6 +441,13 @@ Year: ?<br>
 Year: ?<br>
 <br>
 <img src="https://i.imgur.com/IfQctka.jpg">
+
+---
+
+# Pocket Monster Mato - Pikachu<br>
+Year: ?<br>
+<br>
+<img src="https://i.imgur.com/Q1WunIH.png">
 
 ---
 
