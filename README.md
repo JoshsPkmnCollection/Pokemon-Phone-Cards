@@ -15,6 +15,15 @@ Japanese text:<br>
 
 ---
 
+# PiPiPi Adventurer - Pikachu<br>
+Year: 1996<br>
+Japanese text:<br>
+アドベンチヤー (Adventurer)<br>
+<br>
+<img src="https://i.imgur.com/Ts6JYRK.jpg">
+
+---
+
 # CORO CORO COMICS - Red<br>
 Year: 1996<br>
 <br>
