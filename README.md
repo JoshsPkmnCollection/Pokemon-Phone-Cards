@@ -77,14 +77,14 @@ Year: 1998<br>
 
 ---
 
-# Pokemon Center Osaka Telephone Card Set<br>
+# Pokemon Center Osaka Telephone<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/BFLl7Yw.jpg">
 
 ---
 
-# Pokemon Center Osaka Telephone<br>
+# Pokemon Center Osaka Telephone Card Set<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/IH452rX.jpg">
@@ -123,6 +123,15 @@ Year: 1998<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/uXdIhpk.png">
+
+---
+
+# The 64 DREAM<br>
+Year: 1999<br>
+Japanese text:<br>
+ザロクヨンドリーム (The Rokuyon Dream)<br>
+<br>
+<img src="https://i.imgur.com/Joxifej.jpg">
 
 ---
 
