@@ -91,7 +91,7 @@ Year: 1998<br>
 
 ---
 
-# Pokemon Center Osaka Telephone<br>
+# Pokemon Center Osaka<br>
 Year: 1998<br>
 <br>
 <img src="https://i.imgur.com/BFLl7Yw.jpg">
