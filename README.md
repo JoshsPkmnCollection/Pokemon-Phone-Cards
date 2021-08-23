@@ -73,6 +73,20 @@ Year: 1996<br>
 
 ---
 
+# TOMY Merry X'mas 1997<br>
+Year: 1997<br>
+<br>
+<img src="https://i.imgur.com/aBqVOgA.jpg">
+
+---
+
+# TOMY Merry X'mas 1998<br>
+Year: 1998<br>
+<br>
+<img src="https://i.imgur.com/h74FxBq.jpg">
+
+---
+
 # Televi-Kun and Kusei<br>
 Year: 1998<br>
 Background: Televi-Kun is a Japanese monthly manga magazine published by Shogakukan<br>
